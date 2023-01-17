@@ -1,0 +1,15 @@
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\bin\Debug\net6.0\piglatin3.exe
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\bin\Debug\net6.0\piglatin3.deps.json
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\bin\Debug\net6.0\piglatin3.runtimeconfig.json
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\bin\Debug\net6.0\piglatin3.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\bin\Debug\net6.0\piglatin3.pdb
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\piglatin3.csproj.AssemblyReference.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\piglatin3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\piglatin3.AssemblyInfoInputs.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\piglatin3.AssemblyInfo.cs
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\piglatin3.csproj.CoreCompileInputs.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\piglatin3.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\refint\piglatin3.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\piglatin3.pdb
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\piglatin3.genruntimeconfig.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\piglatin3\piglatin3\obj\Debug\net6.0\ref\piglatin3.dll
